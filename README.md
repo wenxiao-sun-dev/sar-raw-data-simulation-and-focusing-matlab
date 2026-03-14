@@ -52,3 +52,15 @@ Possible extensions:
 - process multiple point targets
 - include range cell migration correction
 - compare focused images for different radar parameters
+
+## Example Results
+
+<p align="center">
+  <img src="results/sar_raw_data.png" width="30%">
+  <img src="results/sar_range_compressed.png" width="30%">
+  <img src="results/sar_focused_image.png" width="30%">
+</p>
+
+<p align="center">
+  From left to right: simulated SAR raw data, range-compressed data, and final focused SAR image.
+</p>
